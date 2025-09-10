@@ -2,7 +2,7 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/heumsi/helm-charts
+    repoURL: https://github.com/Shin9184/helm-charts
   syncPolicy:
     automated: 
       prune: true  
